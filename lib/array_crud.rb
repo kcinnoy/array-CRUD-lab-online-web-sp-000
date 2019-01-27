@@ -33,3 +33,11 @@ end
 def retrieve_last_element_from_array(array)
   array.last
 end
+
+
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  def retrieve_element_from_index(array, index_number)
+    array[index_number]
+  end
+
+  retrieve_element_from_index(array, 2)
