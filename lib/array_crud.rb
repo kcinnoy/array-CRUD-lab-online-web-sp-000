@@ -40,4 +40,3 @@ end
     array[index_number]
   end
 
-  retrieve_element_from_index(array, 2)
